@@ -7,8 +7,8 @@
 ## 👥 Thông tin nhóm (Lớp 25CNTT3)
 | STT | Họ và Tên                    | Mã Sinh Viên | Vai trò / Nhiệm vụ | Link GitHub Cá Nhân |
 |---|------------------------------|--------------|---|---|
-| 1 | Trần Hồng Khải (Nhóm trưởng) | 3120225068   | Quản lý tiến độ dự án, Viết báo cáo, Hỗ trợ test lỗi (QA/QC) | [GitHub](link_cua_nhom_truong) |
-| 2 | Đào Nhật Minh (Thành viên)   | [Mã SV]      | Code Controller, Thiết kế kiến trúc MVC, Giao diện JavaFX, Thuật toán 2048, Tích hợp AI OpenCV, File I/O, Exception | [GitHub](link_cua_khai) |
+| 1 | Trần Hồng Khải (Nhóm trưởng) | 3120225068   | Quản lý tiến độ dự án, Viết báo cáo, Hỗ trợ test lỗi (QA/QC) | [GitHub]((https://github.com/hongkhai55)) |
+| 2 | Đào Nhật Minh (Thành viên)   | [Mã SV]      | Code Controller, Thiết kế kiến trúc MVC, Giao diện JavaFX, Thuật toán 2048, Tích hợp AI OpenCV, File I/O, Exception | [GitHub](link_cua_minh) |
 
 ## 📝 Giới thiệu dự án (Description)
 Dự án là phiên bản nâng cấp sáng tạo của tựa game giải đố huyền thoại 2048. Thay vì điều khiển bằng phím bấm truyền thống, ứng dụng tích hợp công nghệ Computer Vision (AI) để theo dõi chuyển động khuôn mặt theo thời gian thực. Người chơi hoàn toàn có thể chơi game mà không cần chạm tay vào thiết bị, chỉ cần gật, ngước, hoặc nghiêng mặt để vuốt các ô số.
@@ -31,6 +31,13 @@ Dự án là phiên bản nâng cấp sáng tạo của tựa game giải đố 
 ## 📂 Cấu trúc dự án (Mô hình MVC)
 Dự án tuân thủ nghiêm ngặt mô hình **MVC (Model - View - Controller)** theo yêu cầu của đồ án:
 ```text
+<img width="992" height="878" alt="Screenshot 2026-04-01 105248" src="https://github.com/user-attachments/assets/f4aaa48c-1f2a-4038-a103-f4d273351f62" />
+<img width="1493" height="1313" alt="Screenshot 2026-04-01 105351" src="https://github.com/user-attachments/assets/d95bf818-78a6-4bab-8c38-157e258694ac" />
+<img width="1492" height="1311" alt="Screenshot 2026-04-01 105402" src="https://github.com/user-attachments/assets/5da43585-2a90-4850-8a2a-8a598ff929e7" />
+<img width="1495" height="1317" alt="Screenshot 2026-04-01 105423" src="https://github.com/user-attachments/assets/fcd09550-b21a-4822-a48f-1a6f48288d91" />
+<img width="1496" height="1314" alt="Screenshot 2026-04-01 105416" src="https://github.com/user-attachments/assets/34ed53c9-ef1c-4671-83d8-5cba6618156e" />
+<img width="1489" height="1307" alt="Screenshot 2026-04-01 105409" src="https://github.com/user-attachments/assets/22a2b48e-e74f-4107-89fd-b5766331292f" />
+
 src/
 ├── model/
 │   ├── GameBoard.java               # Logic 2048, thuật toán merge, xử lý File I/O score
@@ -47,3 +54,4 @@ src/
 ├── style.css                        # Giao diện Dark theme
 ├── haarcascade_frontalface_default.xml # File Model AI nhận diện khuôn mặt
 └── highscore.txt                    # File lưu trữ điểm số cao nhất
+
