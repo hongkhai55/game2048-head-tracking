@@ -27,7 +27,10 @@ Dự án là phiên bản nâng cấp sáng tạo của tựa game giải đố 
 * **Lưu trữ:** File Text (I/O Stream)
 * **Thư viện AI:** JavaCV / OpenCV (Xử lý nhận diện khuôn mặt ngoại tuyến)
 * **Công cụ khác:** Maven, Git, GitHub, IntelliJ IDEA
+Gameplay:
+b1: nhận diện khuôn mặt:
 <img width="992" height="878" alt="Screenshot 2026-04-01 105248" src="https://github.com/user-attachments/assets/f4aaa48c-1f2a-4038-a103-f4d273351f62" />
+b2: xoay theo các hướng:
 <img width="1493" height="1313" alt="Screenshot 2026-04-01 105351" src="https://github.com/user-attachments/assets/d95bf818-78a6-4bab-8c38-157e258694ac" />
 <img width="1492" height="1311" alt="Screenshot 2026-04-01 105402" src="https://github.com/user-attachments/assets/5da43585-2a90-4850-8a2a-8a598ff929e7" />
 <img width="1495" height="1317" alt="Screenshot 2026-04-01 105423" src="https://github.com/user-attachments/assets/fcd09550-b21a-4822-a48f-1a6f48288d91" />
