@@ -27,6 +27,7 @@ Dự án là phiên bản nâng cấp sáng tạo của tựa game giải đố 
 * **Lưu trữ:** File Text (I/O Stream)
 * **Thư viện AI:** JavaCV / OpenCV (Xử lý nhận diện khuôn mặt ngoại tuyến)
 * **Công cụ khác:** Maven, Git, GitHub, IntelliJ IDEA
+
 Gameplay:
 b1: nhận diện khuôn mặt:
 <img width="992" height="878" alt="Screenshot 2026-04-01 105248" src="https://github.com/user-attachments/assets/f4aaa48c-1f2a-4038-a103-f4d273351f62" />
