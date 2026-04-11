@@ -8,7 +8,7 @@
 | STT | Họ và Tên                    | Mã Sinh Viên | Vai trò / Nhiệm vụ | Link GitHub Cá Nhân |
 |---|------------------------------|--------------|---|---|
 | 1 | Trần Hồng Khải (Nhóm trưởng) | 3120225068   | Quản lý tiến độ dự án, Viết báo cáo, Hỗ trợ test lỗi (QA/QC) | [(https://github.com/hongkhai55)] |
-| 2 | Đào Nhật Minh (Thành viên)   | 3120225091      | Code Controller, Thiết kế kiến trúc MVC, Giao diện JavaFX, Thuật toán 2048, Tích hợp AI OpenCV, File I/O, Exception | [GitHub](link_cua_minh) |
+| 2 | Đào Nhật Minh (Thành viên)   | 3120225091      | Code Controller, Thiết kế kiến trúc MVC, Giao diện JavaFX, Thuật toán 2048, Tích hợp AI OpenCV, File I/O, Exception | [[GitHub](https://github.com/phuongntktm-creator)] |
 
 ## 📝 Giới thiệu dự án (Description)
 Dự án là phiên bản nâng cấp sáng tạo của tựa game giải đố huyền thoại 2048. Thay vì điều khiển bằng phím bấm truyền thống, ứng dụng tích hợp công nghệ Computer Vision (AI) để theo dõi chuyển động khuôn mặt theo thời gian thực. Người chơi hoàn toàn có thể chơi game mà không cần chạm tay vào thiết bị, chỉ cần gật, ngước, hoặc nghiêng mặt để vuốt các ô số.
