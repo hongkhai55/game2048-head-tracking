@@ -7,7 +7,7 @@
 ## 👥 Thông tin nhóm (Lớp 25CNTT3)
 | STT | Họ và Tên                    | Mã Sinh Viên | Vai trò / Nhiệm vụ | Link GitHub Cá Nhân |
 |---|------------------------------|--------------|---|---|
-| 1 | Trần Hồng Khải (Nhóm trưởng) | 3120225068   | Quản lý tiến độ dự án, Viết báo cáo, Hỗ trợ test lỗi (QA/QC) | [(https://github.com/hongkhai55)] |
+| 1 | Trần Hồng Khải (Nhóm trưởng) | 3120225068   | Quản lý tiến độ dự án, Viết báo cáo, Hỗ trợ test lỗi (QA/QC) | [[GitHub](https://github.com/hongkhai55)] |
 | 2 | Đào Nhật Minh (Thành viên)   | 3120225091      | Code Controller, Thiết kế kiến trúc MVC, Giao diện JavaFX, Thuật toán 2048, Tích hợp AI OpenCV, File I/O, Exception | [[GitHub](https://github.com/phuongntktm-creator)] |
 
 ## 📝 Giới thiệu dự án (Description)
